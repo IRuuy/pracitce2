@@ -1,0 +1,8 @@
+bin
+obj
+*.vs
+*.suo
+*.user
+*.cachefile
+*.backup
+_UpgradeReport_Files
